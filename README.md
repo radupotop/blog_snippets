@@ -1,1 +1,1 @@
-Code snippets from my blog
+Code snippets from my blog posts
